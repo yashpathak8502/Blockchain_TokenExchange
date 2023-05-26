@@ -1,0 +1,32 @@
+await ethers.utils.formatEther(balance1.toString());
+await balance1.toString();
+balance1
+const balance1=await ethers.provider.getBalance(account1[0].address);
+account1[0].address
+account1
+const account1=await ethers.getSigners("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+await token1.name();
+await token1.myname();
+token1.address
+token1
+const token1=await ethers.getContractAt("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+const token=await ethers.getContractAt("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+const token=await ether.getContractAt("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+clear
+clc
+clear
+balance
+const balance=await ethers.provider.getBalance(account[0].address);
+account[0].address
+account.address
+account
+const account=await ethers.getSigners("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+acc.address
+addrers
+address
+const addrers=acc.address;
+acc.address
+token.address
+acc
+const acc=await ethers.getContractAt("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
+await ethers.getSigners("Token",'0x5FbDB2315678afecb367f032d93F642f64180aa3');
